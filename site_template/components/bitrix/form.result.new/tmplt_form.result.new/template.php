@@ -74,7 +74,7 @@ foreach ($arResult["QUESTIONS"] as $key => $quest) {
             <div class="input contact-form__input">
                 <label class="input__label" for="<?=$input["ID"]?>">
                     <div class="input__label-text">
-                        <?=$input["CAPTION"].($input["REQUIRED"] == "Y" ? "*" : "")?>
+                        <?=$input["CAPTION"]?>
                     </div>
                     <?=$input["HTML_CODE"]?>
                     <div class="input__notification"><?=$input["ERROR"]?></div>
@@ -88,7 +88,7 @@ foreach ($arResult["QUESTIONS"] as $key => $quest) {
             <div class="input">
                 <label class="input__label" for="<?=$input["ID"]?>">
                     <div class="input__label-text">
-                        <?=$input["CAPTION"].($input["REQUIRED"] == "Y" ? "*" : "")?>
+                        <?=$input["CAPTION"]?>
                     </div>
                     <?=$input["HTML_CODE"]?>
                     <div class="input__notification"><?=$input["ERROR"]?></div>
