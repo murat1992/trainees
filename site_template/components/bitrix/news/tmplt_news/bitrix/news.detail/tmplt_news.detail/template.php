@@ -13,7 +13,6 @@ if ($arResult["NAV_RESULT"]) {
 } else {
     $detailText = $arResult["DETAIL_TEXT"];
 }
-
 ?>
 <div class="article-card">
     <div class="article-card__title"><?=$arResult["NAME"]?></div>
@@ -26,7 +25,7 @@ if ($arResult["NAV_RESULT"]) {
         <div class="article-card__text">
             <div class="block-content" data-anim="anim-3"><?=$detailText?></div>
             <a class="article-card__button" href="<?=$arResult["LIST_PAGE_URL"]?>">
-                <?=GetMessage("T_NEWS_DETAIL_BACK")?>
+                <?=GetMessage("T_BACK_TO_NEWS")?>
             </a>
         </div>
     </div>

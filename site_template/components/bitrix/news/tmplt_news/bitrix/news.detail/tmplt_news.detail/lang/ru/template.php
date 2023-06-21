@@ -1,3 +1,2 @@
 <?php
-
-$MESS["T_NEWS_DETAIL_BACK"] = "Назад к новостям";
+$MESS["T_BACK_TO_NEWS"] = "Назад к новостям";
