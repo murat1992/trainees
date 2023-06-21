@@ -2,9 +2,9 @@
 # Неделя 3
 Файл [Администратор.Бизнес.pdf](/certificates/Администратор.Бизнес.pdf) - сертификат пройденного курса "Администратор. Бизнес"
 
-В директории [tmplt_news](/site_template/components/bitrix/news/tmplt_news) находится комплексный шаблон компоненты news  
-Добавил шаблон [tmplt_news.detail](/site_template/components/bitrix/news/tmplt_news/bitrix/news.detail/tmplt_news.detail)  
-Шаблон [tmplt_news.list](/site_template/components/bitrix/news/tmplt_news/bitrix/news.list/tmplt_news.list/) перенес в [tmplt_news](/site_template/components/bitrix/news/tmplt_news)  
+В директории [tmplt_news](/site_template/components/bitrix/news/tmplt_news) находится шаблон комплексной компоненты news  
+Шаблоны [tmplt_news.detail](/site_template/components/bitrix/news/tmplt_news/bitrix/news.detail/tmplt_news.detail) и [tmplt_news.list](/site_template/components/bitrix/news/tmplt_news/bitrix/news.list/tmplt_news.list/) включены в шаблон комплексной компоненты  
+
 
 # Неделя 2
 Файл [Администратор.Базовый.pdf](/certificates/Администратор.Базовый.pdf) - сертификат пройденного курса "Администратор. Базовый"  
