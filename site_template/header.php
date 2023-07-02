@@ -19,8 +19,8 @@
             "MENU_CACHE_USE_GROUPS" => "N",
             "MENU_CACHE_GET_VARS" => array(
             ),
-            "MAX_LEVEL" => "1",
-            "CHILD_MENU_TYPE" => "top",
+            "MAX_LEVEL" => "4",
+            "CHILD_MENU_TYPE" => "left",
             "USE_EXT" => "Y",
             "DELAY" => "N",
             "ALLOW_MULTI_SELECT" => "N"
@@ -29,4 +29,7 @@
             );?>
         </div>
     </div>
+<?php
+$APPLICATION->IncludeComponent("bitrix:breadcrumb", "", array());
+?>
     <div id="barba-wrapper">
