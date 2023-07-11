@@ -1,5 +1,8 @@
 # Стажировка
 
+# Неделя 6
+Компонента [news.list](/local/components/dev/news.list)
+
 # Неделя 5
 [Тренировочный модуль](/local/modules/dev.site/)  
 файл [init.php](/local/php_interface/init.php)  

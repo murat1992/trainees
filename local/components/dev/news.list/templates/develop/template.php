@@ -1,0 +1,23 @@
+<?php
+if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+?>
+<div>
+<h2>$_REQUEST</h2>
+<pre>
+<?php
+    print_r($_REQUEST);
+?>
+</pre>
+<h2>$arParams</h2>
+<pre>
+<?php
+    print_r($arParams);
+?>
+</pre>
+<h2>$arResult</h2>
+<pre>
+<?php
+    print_r($arResult);
+?>
+</pre>
+</div>
