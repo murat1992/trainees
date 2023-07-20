@@ -1,0 +1,8 @@
+<?php
+$MESS['MYMOD_USERTYPE_COMPLEX_DESCRIPTION'] = "mymod: Комплексный тип";
+$MESS['MYMOD_CPROP_FIELD_TYPE_STRING'] = 'Строка';
+$MESS['MYMOD_CPROP_FIELD_TYPE_HTML'] = 'HTML/Визуальный редактор';
+$MESS['MYMOD_CPROP_FIELD_TYPE_FILE'] = 'Файл';
+$MESS['MYMOD_CPROP_FIELD_TYPE_TEXT'] = 'Текст';
+$MESS['MYMOD_CPROP_FIELD_TYPE_DATE'] = 'Дата/Время';
+$MESS['MYMOD_CPROP_FIELD_TYPE_ELEMENT'] = 'Привязка к элементу';
