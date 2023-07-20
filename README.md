@@ -1,5 +1,10 @@
 # Стажировка
 
+# Неделя 7
+Создан модуль [dev.mymodule](/local/modules/dev.mymodule)
+Модуль добавляет комплексный тип данных для свойств инфоблоков и пользовательских полей.
+Для UserField использовал [обновленный подход](https://dev.1c-bitrix.ru/api_d7/bitrix/main/userfield/introduction.php)
+
 # Неделя 6
 Компонента [news.list](/local/components/dev/news.list)
 
